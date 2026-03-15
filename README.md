@@ -3,7 +3,7 @@ An AI prompt that deciphers hermetic texts by resolving symbols in their context
 Example for the results in the repository was Die geheimen Lehren aller Zeitalter by Manly P. Hall<br>
 <br>
 DANGER: Don't use the content of this repository if you don't know what you are doing.<br>
-        The results are mostly unsorted!
+        The results are mostly unsorted! They have been created with several different versions of the prompt.
 
 Toned-down version.
 If you are bored and don't know hat to do, you could for instance try to change the prompt so it uses 7 iterations in an inner loop and 3 iterations in an outer loop.
