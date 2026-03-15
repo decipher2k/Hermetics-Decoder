@@ -5,7 +5,7 @@ Example for the results in the repository was "Die geheimen Lehren aller Zeitalt
 DANGER: Don't use the content of this repository if you don't know what you are doing.<br>
         The results are mostly unsorted! They have been created with several different versions of the prompt.<br><br>
         
-To decipher the complete text in a whole and not chapterwise, a 2MB context window of the AI is required.<br>
+To decipher the complete text in a whole and not chapterwise, a 2MB context window of the AI (about 500.000 tokens) is required.<br>
 <br>        
 Toned-down version.<br>
 If you are bored and don't know hat to do, you could for instance try to change the prompt so it uses 7 iterations in an inner loop and 3 iterations in an outer loop, applying the new insights about archetypes from the inner loop to the original text in each outer iteration.<br>
