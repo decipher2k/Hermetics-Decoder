@@ -5,6 +5,7 @@ Example for the results in the repository was Die geheimen Lehren aller Zeitalte
 DANGER: Don't use the content of this repository if you don't know what you are doing.<br>
         The results are mostly unsorted!
 
+Toned-down version.
 If you are bored and don't know hat to do, you could for instance try to change the prompt so it uses 7 iterations in an inner loop and 3 iterations in an outer loop.
 
 This is EXPERIMENTAL!
