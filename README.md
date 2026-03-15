@@ -7,7 +7,6 @@ DANGER: Don't use the content of this repository if you don't know what you are 
         
 To decipher the complete text in a whole and not chapterwise, a 2MB context window of the AI is required.<br>
 <br>        
-<br>
 Toned-down version.<br>
 If you are bored and don't know hat to do, you could for instance try to change the prompt so it uses 7 iterations in an inner loop and 3 iterations in an outer loop.<br>
 Modify the prompt and compare results and instruct the AI to track iterations and modifications of archetypes per iteration for deeper insights.<br><br>
