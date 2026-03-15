@@ -1,0 +1,73 @@
+Entschluesselungsschritt 1
+Quelle: /home/dh/whatsoever/sacred texts.txt
+Zeitstempel: 1773474316
+Aeusserer Schleifendurchlauf: 2/7
+Innerer Schleifendurchlauf: 6/7
+Fokus dieses aeusseren Durchlaufs: Vergleich alter Lehrformen
+
+1. Ausgangspunkt
+Im naechsten Lauf tritt staerker hervor, dass der Text sehr verschiedene Ueberlieferungen nebeneinanderstellt und vergleichbar macht. In diesem inneren Durchlauf wird die Sprache nuechterner gehalten.
+
+Implizite Kernqualitaeten am Anfang
+1. Ordnung: Die sehr grosse Stoffmenge soll in eine lesbare Folge gebracht werden.
+2. Vergleich: Verschiedene Ueberlieferungen werden nebeneinandergestellt, nicht nur getrennt abgelegt.
+3. Verdeckter Sinn: Der Text unterstellt, dass Formen mehr mittragen als ihren offenen Wortlaut.
+4. Leserhaltung: Das Buch verlangt eine bestimmte Weise des Lesens und keine rein neutrale Distanz.
+
+2. Haupt-Iterationsschleife, 7 Durchgaenge
+
+Durchgang 1
+Neue Formulierung:
+Der Text arbeitet damit, dass Religionen, Philosophien und alte Lehrformen in sehr verschiedenen Sprachen auftreten und deshalb leicht getrennt wirken.
+Rueckwirkung:
+Der Stoff wird eher als Arbeitsmaterial und weniger als unberuehrbare Autoritaet lesbar.
+
+Durchgang 2
+Neue Formulierung:
+In dieser Stufe richtet sich die Formulierung auf Vergleich alter Lehrformen.
+Rueckwirkung:
+Die ordnende Linie tritt staerker hervor als die Einzelmasse des Materials.
+
+Durchgang 3
+Neue Formulierung:
+In einfacher Sprache heisst das hier, wiederkehrende Denkformen ueber kulturelle Unterschiede hinweg sichtbar zu machen.
+Rueckwirkung:
+Der Bewegungsgrund des Textes wird deutlicher und weniger feierlich.
+
+Durchgang 4
+Neue Formulierung:
+Die kritische Stelle dieser Stufe ist, auszuhalten, dass Aehnlichkeit und Verschiedenheit gleichzeitig bestehen.
+Rueckwirkung:
+Der Textanspruch wird offener benannt und nicht hinter Stil versteckt.
+
+Durchgang 5
+Neue Formulierung:
+Die dichten Formen erscheinen in dieser Fassung als Traeger von Bedeutungen, die in verschiedenen Kulturen anders geformt sind.
+Rueckwirkung:
+Die Rolle der Verdichtung wird funktional und nicht dekorativ gelesen.
+
+Durchgang 6
+Neue Formulierung:
+Die neue Fassung zeigt, dass das Buch viele Stoffe nicht isoliert behandelt, sondern laufend in Vergleich setzt.
+Rueckwirkung:
+Die Kernqualitaeten verschieben sich auf eine direktere, textnaehere Sprache.
+
+Durchgang 7
+Neue Formulierung:
+Konvergenz in dieser Stufe: In klarer Sprache bleibt hier: Das Buch legt sehr verschiedene alte Lehrformen nebeneinander, um wiederkehrende Linien sichtbar zu machen. Die Sprache ist jetzt nuechterner.
+Rueckwirkung:
+Abstraktion nimmt ab, der Selbstanspruch des Textes wird einfacher sichtbar.
+
+3. Letzter Zwischenschritt: bewusste Modifikation der Kern-Qualitaeten
+
+Qualitaet 1 neu:
+Die neue Form von Einheit ist Vergleichbarkeit ohne Gleichmachung.
+
+Qualitaet 2 neu:
+Erkenntnis heisst hier, Entsprechungen und Abweichungen gleichzeitig zu sehen.
+
+Qualitaet 3 neu:
+Verdichtung schuetzt Aehnlichkeiten davor, in Einzelmaterial zu verschwinden.
+
+Unterschied zur vorherigen Fassung
+Gegenueber dem vorherigen Stand wird dieselbe Grundbewegung nuechterner formuliert und enger an explizite Aussagen des Textes angeschlossen.

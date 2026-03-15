@@ -1,0 +1,19 @@
+Namensschema fuer den Lauf 1773474316
+
+1. Innerer Durchlauf innerhalb des aeusseren Laufs
+   decipher.1.loopX.passY.1773474316.txt
+
+2. Verdichtung nach sieben inneren Durchlaeufen
+   deciphered.2.loopX.1773474316.txt
+
+3. Finale Abstimmung im aeusseren Lauf
+   deciphered.2.1.loopX.1773474316.txt
+
+4. Gesamtfassung nach sieben aeusseren Durchlaeufen
+   deciphered.3.1773474316.txt
+
+5. Knappe Schlussfassung
+   deciphered.sumnup.txt
+
+6. End-Klartextfassung
+   deciphered.txt

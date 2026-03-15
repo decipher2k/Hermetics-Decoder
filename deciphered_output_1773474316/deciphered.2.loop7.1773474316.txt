@@ -1,0 +1,44 @@
+Entschluesselungsschritt 2
+Sieben innere Durchlaeufe verdichtet
+Quelle: /home/dh/whatsoever/sacred texts.txt
+Zeitstempel: 1773474316
+Aeusserer Schleifendurchlauf: 7/7
+Fokus dieses aeusseren Durchlaufs: Schlichte Endfassung
+
+Ausgangslage nach sieben inneren Durchlaeufen
+Nach sieben Wiederholungen stabilisiert sich der Text in dieser Stufe auf den Schwerpunkt Schlichte Endfassung.
+
+Konvergenz der sieben inneren Durchlaeufe
+Durchlauf 1
+Noch nah am Originalton.
+
+Durchlauf 2
+Die Formulierung wird entlastet.
+
+Durchlauf 3
+Der Satzbau wird klarer.
+
+Durchlauf 4
+Die Grundannahme wird direkter ausgesprochen.
+
+Durchlauf 5
+Die Funktion der dichten Formen wird einfacher benannt.
+
+Durchlauf 6
+Die Sprache wird nuechterner und textnaeher.
+
+Durchlauf 7
+Die Stufe konvergiert auf diesen Satz: In klarer Sprache bleibt hier: Das Buch sammelt alte Lehrformen, liest sie als Traeger verborgener Lehre und will den Leser in diese Lesart einfuehren.
+
+Neu definierte Kernqualitaeten nach sieben inneren Durchlaeufen
+Qualitaet 1 neu
+Die neue Form von Einheit ist eine einfache Aussage ueber Sammeln, Vergleichen und Erschliessen.
+
+Qualitaet 2 neu
+Erkenntnis bedeutet hier, die vorgegebene Lesart des Buches in klarer Sprache zu erfassen.
+
+Qualitaet 3 neu
+Verdichtung darf am Ende in kurze, direkte Saetze ueberfuehrt werden.
+
+Unterschied zur urspruenglichen Fassung dieser Stufe
+Die Aussage wird weniger weit ausgelegt und staerker auf das zurueckgezogen, was der Text selbst ueber seinen Zweck und seine Bauweise sagt.

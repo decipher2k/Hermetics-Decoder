@@ -1,0 +1,73 @@
+Entschluesselungsschritt 1
+Quelle: /home/dh/whatsoever/sacred texts.txt
+Zeitstempel: 1773474316
+Aeusserer Schleifendurchlauf: 7/7
+Innerer Schleifendurchlauf: 4/7
+Fokus dieses aeusseren Durchlaufs: Schlichte Endfassung
+
+1. Ausgangspunkt
+Im letzten Lauf wird alles so weit wie moeglich in einfache Sprache gezogen, ohne den Grundton des Textes zu verdrehen. In diesem inneren Durchlauf wird die Sprache direkter gehalten.
+
+Implizite Kernqualitaeten am Anfang
+1. Ordnung: Die sehr grosse Stoffmenge soll in eine lesbare Folge gebracht werden.
+2. Vergleich: Verschiedene Ueberlieferungen werden nebeneinandergestellt, nicht nur getrennt abgelegt.
+3. Verdeckter Sinn: Der Text unterstellt, dass Formen mehr mittragen als ihren offenen Wortlaut.
+4. Leserhaltung: Das Buch verlangt eine bestimmte Weise des Lesens und keine rein neutrale Distanz.
+
+2. Haupt-Iterationsschleife, 7 Durchgaenge
+
+Durchgang 1
+Neue Formulierung:
+Der Text arbeitet damit, dass das Werk leicht als neutrale Enzyklopaedie missverstanden werden kann, obwohl es eine klare Lesehaltung verlangt.
+Rueckwirkung:
+Der Stoff wird eher als Arbeitsmaterial und weniger als unberuehrbare Autoritaet lesbar.
+
+Durchgang 2
+Neue Formulierung:
+In dieser Stufe richtet sich die Formulierung auf Schlichte Endfassung.
+Rueckwirkung:
+Die ordnende Linie tritt staerker hervor als die Einzelmasse des Materials.
+
+Durchgang 3
+Neue Formulierung:
+In einfacher Sprache heisst das hier, den Text in eine knappe Fassung zu bringen, die seine eigenen Grundsaetze deutlich, aber nicht feierlich ausspricht.
+Rueckwirkung:
+Der Bewegungsgrund des Textes wird deutlicher und weniger feierlich.
+
+Durchgang 4
+Neue Formulierung:
+Die kritische Stelle dieser Stufe ist, den Punkt zu erreichen, an dem keine weitere Ausschmueckung mehr hilft, sondern nur noch klare Setzung.
+Rueckwirkung:
+Der Textanspruch wird offener benannt und nicht hinter Stil versteckt.
+
+Durchgang 5
+Neue Formulierung:
+Die dichten Formen erscheinen in dieser Fassung als Mittel, mit denen alte Lehren nach Ansicht des Buches aufbewahrt und erschlossen werden.
+Rueckwirkung:
+Die Rolle der Verdichtung wird funktional und nicht dekorativ gelesen.
+
+Durchgang 6
+Neue Formulierung:
+Die neue Fassung zeigt, dass am Ende eine einfache Aussage uebrig bleibt, die dem Buchtext naher ist als freie Deutung.
+Rueckwirkung:
+Die Kernqualitaeten verschieben sich auf eine direktere, textnaehere Sprache.
+
+Durchgang 7
+Neue Formulierung:
+Konvergenz in dieser Stufe: In klarer Sprache bleibt hier: Das Buch sammelt alte Lehrformen, liest sie als Traeger verborgener Lehre und will den Leser in diese Lesart einfuehren. Die Sprache ist jetzt direkter.
+Rueckwirkung:
+Abstraktion nimmt ab, der Selbstanspruch des Textes wird einfacher sichtbar.
+
+3. Letzter Zwischenschritt: bewusste Modifikation der Kern-Qualitaeten
+
+Qualitaet 1 neu:
+Die neue Form von Einheit ist eine einfache Aussage ueber Sammeln, Vergleichen und Erschliessen.
+
+Qualitaet 2 neu:
+Erkenntnis bedeutet hier, die vorgegebene Lesart des Buches in klarer Sprache zu erfassen.
+
+Qualitaet 3 neu:
+Verdichtung darf am Ende in kurze, direkte Saetze ueberfuehrt werden.
+
+Unterschied zur vorherigen Fassung
+Gegenueber dem vorherigen Stand wird dieselbe Grundbewegung direkter formuliert und enger an explizite Aussagen des Textes angeschlossen.

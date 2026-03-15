@@ -1,0 +1,49 @@
+Entschluesselungsschritt 3
+Sieben aeussere Durchlaeufe von 1 bis 5 aufeinander bezogen
+Quelle: /home/dh/whatsoever/sacred texts.txt
+Zeitstempel: 1773473581
+
+Namensschema dieses Laufs
+- decipher.1.loopX.passY.1773473581.txt = Ergebnis nach Schritt 3 im aeusseren Durchlauf X und inneren Durchlauf Y
+- deciphered.2.loopX.1773473581.txt = Ergebnis nach Schritt 4.1 im aeusseren Durchlauf X
+- deciphered.2.1.loopX.1773473581.txt = Ergebnis nach Schritt 5.1 im aeusseren Durchlauf X
+- deciphered.3.1773473581.txt = Endergebnis nach allen sieben aeusseren Durchlaeufen
+
+Konvergenz der sieben aeusseren Durchlaeufe
+Durchlauf 1
+Ordnung hinter Vielfalt: Die Stoffmasse wird zuerst als Suchbewegung nach Zusammenhang lesbar.
+
+Durchlauf 2
+Gemeinsame Menschheitsfragen: Die Verschiedenheit der Traditionen wird auf wiederkehrende Probleme bezogen.
+
+Durchlauf 3
+Der Mensch als Lernort: Das Buch wird als Arbeit am Leser selbst verstanden.
+
+Durchlauf 4
+Krise, Zerlegung, Neuaufbau: Reifung erscheint als Weg durch Verlust und Neusortierung.
+
+Durchlauf 5
+Symbole als Werkzeuge des Lernens: Bilder, Zahlen und Riten werden methodisch gedeutet.
+
+Durchlauf 6
+Vergleichende Kulturdeutung: Das Werk wird zu einer grossen Karte menschlicher Sinnsuche.
+
+Durchlauf 7
+Alltagssprache der inneren Reifung: Die Endfassung wird in einfache Gegenwartssprache gezogen.
+
+Final neu definierte Kernqualitaeten
+Qualitaet 1 neu: Zusammenhang als Ordnungsarbeit
+Das Werk sucht keine blosse Kuriositaetensammlung, sondern eine lesbare Ordnung zwischen sehr verschiedenen Formen des Denkens.
+
+Qualitaet 2 neu: Erkenntnis als Umbau des Lesers
+Der Sinn des Materials liegt nicht im blossen Besitz von Wissen, sondern in veraenderter Wahrnehmung, Selbstpruefung und Haltung.
+
+Qualitaet 3 neu: Krise als notwendiger Teil von Reifung
+Verlust, Zerlegung und Suche sind keine Randmotive, sondern Grundformen menschlicher Neuorientierung.
+
+Knappe Gesamtbewertung
+Welche Position entsteht?
+Es entsteht eine vergleichende, praktisch-spirituelle und deutlich menschenbezogene Deutung des Werks. Alte Weisheitsformen erscheinen als Mittel, den Leser aus Oberflaeche, Zerstreuung und Unordnung herauszufuehren.
+
+Welche Veraenderung ist eingetreten?
+Die Sprache ist ueber die Schleifen hinweg von feierlicher Enzyklopaedie zu einfacher Lebensdeutung uebergegangen. Uebrig bleibt die Aussage, dass alte dichte Ueberlieferungen helfen sollen, Zusammenhaenge zu sehen, Krisen auszuhalten und das eigene Leben ernster zu ordnen.

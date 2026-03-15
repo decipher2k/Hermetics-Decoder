@@ -1,0 +1,73 @@
+Entschluesselungsschritt 1
+Quelle: /home/dh/whatsoever/sacred texts.txt
+Zeitstempel: 1773473581
+Aeusserer Schleifendurchlauf von 1 bis 5: 1/7
+Innerer Schleifendurchlauf von 1 bis 3: 1/7
+Fokus dieses aeusseren Durchlaufs: Ordnung hinter Vielfalt
+
+1. Ausgangspunkt
+Der Ausgangstext wird zuerst als Versuch gelesen, eine grosse Menge alter Lehren unter eine gemeinsame Grundidee zu bringen. In diesem inneren Durchlauf wird die Sprache noch nahe am feierlichen Ton des Originals gehalten.
+
+Implizite Kernqualitaeten am Anfang
+1. Einheitssuche: Das Werk versucht, sehr verschiedene Traditionen auf eine lesbare Grundordnung zu beziehen.
+2. Innere Veraenderung: Erkenntnis soll den Menschen veraendern, nicht nur informieren.
+3. Krise und Rueckgewinnung: Verlust, Zerlegung und Suche kehren als Reifungsmuster wieder.
+4. Verdichtete Vermittlung: Symbole, Bilder und Rituale tragen Bedeutung in gebuendelter Form.
+
+2. Haupt-Iterationsschleife, 7 Durchgaenge
+
+Durchgang 1
+Neue Formulierung:
+Der Text sagt zuerst, dass die Ueberlieferungen der Menschheit auf den ersten Blick chaotisch, widerspruechlich und unverbunden wirken.
+Rueckwirkung:
+Die Stoffmasse wird als bearbeitbares Problem sichtbar und nicht nur als Ehrfurchtsobjekt.
+
+Durchgang 2
+Neue Formulierung:
+Die vielen Traditionen werden auf den Fokus Ordnung hinter Vielfalt bezogen.
+Rueckwirkung:
+Einheit erscheint als Arbeit des Vergleichens statt als fertige Behauptung.
+
+Durchgang 3
+Neue Formulierung:
+Erkenntnis bedeutet auf dieser Stufe, eine Grundordnung hinter der Vielfalt von Symbolen, Riten und Lehren zu erkennen.
+Rueckwirkung:
+Innere Veraenderung wird konkreter und weniger feierlich.
+
+Durchgang 4
+Neue Formulierung:
+Krise bedeutet hier, die erste Verwirrung des Lesers nicht als Scheitern, sondern als notwendige Schwelle des Verstehens zu nehmen.
+Rueckwirkung:
+Das Muster von Verlust und Wiedergewinnung wird fuer heutige Erfahrung lesbarer.
+
+Durchgang 5
+Neue Formulierung:
+Symbole, Riten und Lehrformen erscheinen als Mittel, um verstreute Stoffe in lesbare Ordnung zu bringen.
+Rueckwirkung:
+Verdichtung wird als sinnvolle Vermittlungsform statt als blosse Verzierung gelesen.
+
+Durchgang 6
+Neue Formulierung:
+Die neue Fassung zeigt, dass hinter vielen Formen ein wiederkehrendes Ordnungsbeduerfnis steht.
+Rueckwirkung:
+Die impliziten Qualitaeten werden pragmatischer und nachvollziehbarer.
+
+Durchgang 7
+Neue Formulierung:
+Konvergenz in diesem Durchlauf: Die erste Klarheit lautet: Das Buch will Vielfalt auf Zusammenhang hin lesbar machen. Die Sprache ist jetzt noch nahe am feierlichen Ton des Originals.
+Rueckwirkung:
+Der Text verliert Abstraktion und gewinnt an lesbarer Richtung.
+
+3. Letzter Zwischenschritt: bewusste Modifikation der Kern-Qualitaeten
+
+Qualitaet 1 neu:
+Einheit erscheint als Suchbewegung nach Zusammenhang inmitten ueberbordender Vielfalt.
+
+Qualitaet 2 neu:
+Erkenntnis beginnt mit geduldigem Ordnen statt mit schneller Gewissheit.
+
+Qualitaet 3 neu:
+Verdichtung dient dazu, grosse Stoffmengen zusammenhaengend zu halten.
+
+Unterschied zur vorherigen Fassung
+Gegenueber dem vorherigen Stand wird dieselbe Grundidee noch nahe am feierlichen Ton des Originals formuliert und staerker auf den Menschen als Lern- und Reifungsort bezogen.

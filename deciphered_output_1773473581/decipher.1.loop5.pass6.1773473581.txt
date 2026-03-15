@@ -1,0 +1,73 @@
+Entschluesselungsschritt 1
+Quelle: /home/dh/whatsoever/sacred texts.txt
+Zeitstempel: 1773473581
+Aeusserer Schleifendurchlauf von 1 bis 5: 5/7
+Innerer Schleifendurchlauf von 1 bis 3: 6/7
+Fokus dieses aeusseren Durchlaufs: Symbole als Werkzeuge des Lernens
+
+1. Ausgangspunkt
+Nun wird der Stoff weniger als Behauptung ueber verborgene Welten und mehr als methodisches Uebungsmaterial gelesen. In diesem inneren Durchlauf wird die Sprache praktischer und alltagsnaeher gehalten.
+
+Implizite Kernqualitaeten am Anfang
+1. Einheitssuche: Das Werk versucht, sehr verschiedene Traditionen auf eine lesbare Grundordnung zu beziehen.
+2. Innere Veraenderung: Erkenntnis soll den Menschen veraendern, nicht nur informieren.
+3. Krise und Rueckgewinnung: Verlust, Zerlegung und Suche kehren als Reifungsmuster wieder.
+4. Verdichtete Vermittlung: Symbole, Bilder und Rituale tragen Bedeutung in gebuendelter Form.
+
+2. Haupt-Iterationsschleife, 7 Durchgaenge
+
+Durchgang 1
+Neue Formulierung:
+Der Text sagt zuerst, dass wichtige Erfahrungen, Einsichten und Ordnungen nicht immer direkt in Alltagssprache sagbar sind.
+Rueckwirkung:
+Die Stoffmasse wird als bearbeitbares Problem sichtbar und nicht nur als Ehrfurchtsobjekt.
+
+Durchgang 2
+Neue Formulierung:
+Die vielen Traditionen werden auf den Fokus Symbole als Werkzeuge des Lernens bezogen.
+Rueckwirkung:
+Einheit erscheint als Arbeit des Vergleichens statt als fertige Behauptung.
+
+Durchgang 3
+Neue Formulierung:
+Erkenntnis bedeutet auf dieser Stufe, Symbole, Zahlen, Mythen und Riten als Werkzeuge der Aufmerksamkeit und des Verstehens zu lesen.
+Rueckwirkung:
+Innere Veraenderung wird konkreter und weniger feierlich.
+
+Durchgang 4
+Neue Formulierung:
+Krise bedeutet hier, die Grenze rein direkter Sprache anzuerkennen.
+Rueckwirkung:
+Das Muster von Verlust und Wiedergewinnung wird fuer heutige Erfahrung lesbarer.
+
+Durchgang 5
+Neue Formulierung:
+Symbole, Riten und Lehrformen erscheinen als Arbeitsmittel, mit denen Wahrnehmung gelenkt und Bedeutung verdichtet wird.
+Rueckwirkung:
+Verdichtung wird als sinnvolle Vermittlungsform statt als blosse Verzierung gelesen.
+
+Durchgang 6
+Neue Formulierung:
+Die neue Fassung zeigt, dass die Formen des Buches nicht Dekoration, sondern Verfahren des Lernens sind.
+Rueckwirkung:
+Die impliziten Qualitaeten werden pragmatischer und nachvollziehbarer.
+
+Durchgang 7
+Neue Formulierung:
+Konvergenz in diesem Durchlauf: Das Werk wird nun als Sammlung von Lernwerkzeugen statt blossen Geheimzeichen lesbar. Die Sprache ist jetzt praktischer und alltagsnaeher.
+Rueckwirkung:
+Der Text verliert Abstraktion und gewinnt an lesbarer Richtung.
+
+3. Letzter Zwischenschritt: bewusste Modifikation der Kern-Qualitaeten
+
+Qualitaet 1 neu:
+Einheit zeigt sich im gemeinsamen Gebrauch verdichteter Formen.
+
+Qualitaet 2 neu:
+Erkenntnis entsteht im Umgang mit Symbolen, nicht nur in Begriffen.
+
+Qualitaet 3 neu:
+Verdichtung wird als paedagogische Technik klarer.
+
+Unterschied zur vorherigen Fassung
+Gegenueber dem vorherigen Stand wird dieselbe Grundidee praktischer und alltagsnaeher formuliert und staerker auf den Menschen als Lern- und Reifungsort bezogen.

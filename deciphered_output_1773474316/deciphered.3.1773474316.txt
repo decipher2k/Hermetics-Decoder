@@ -1,0 +1,49 @@
+Entschluesselungsschritt 3
+Sieben aeussere Durchlaeufe aufeinander bezogen
+Quelle: /home/dh/whatsoever/sacred texts.txt
+Zeitstempel: 1773474316
+
+Namensschema dieses Laufs
+- decipher.1.loopX.passY.1773474316.txt = innerer Durchlauf Y im aeusseren Durchlauf X
+- deciphered.2.loopX.1773474316.txt = Verdichtung nach sieben inneren Durchlaeufen im aeusseren Durchlauf X
+- deciphered.2.1.loopX.1773474316.txt = finale Abstimmung im aeusseren Durchlauf X
+- deciphered.3.1773474316.txt = Gesamtfassung nach allen sieben aeusseren Durchlaeufen
+
+Konvergenz der sieben aeusseren Durchlaeufe
+Durchlauf 1
+Sammlung und Ordnung: Das Werk wird zuerst als Versuch lesbar, sehr viel Material in Folge zu bringen.
+
+Durchlauf 2
+Vergleich alter Lehrformen: Verschiedene Ueberlieferungen werden nebeneinander lesbar gemacht.
+
+Durchlauf 3
+Behaupteter verborgener Lehrsinn: Der Text sagt, dass alte Formen mehr tragen als ihren offenen Wortlaut.
+
+Durchlauf 4
+Abstand zur materialistischen Lesart: Die Grundhaltung des Buches wird als ausdruecklich anti-materialistisch sichtbar.
+
+Durchlauf 5
+Sprachgrenze und dichte Ausdrucksweise: Die schwere Sprache wird aus dem eigenen Anspruch des Textes erklaert.
+
+Durchlauf 6
+Begrenzter Anspruch und Leserarbeit: Das Werk gibt eine Richtung vor, beansprucht aber keine abschliessende Unfehlbarkeit.
+
+Durchlauf 7
+Schlichte Endfassung: Uebrig bleibt eine direkte Aussage ueber Sammeln, Vergleichen und Erschliessen.
+
+Final neu definierte Kernqualitaeten
+Qualitaet 1 neu: Ordnung durch Zusammenstellung
+Das Werk will sehr viele alte Stoffe nicht nur sammeln, sondern in lesbare Nachbarschaften bringen.
+
+Qualitaet 2 neu: Vergleichende Lesart
+Die Stoffe werden so praesentiert, dass wiederkehrende Denkformen zwischen verschiedenen Ueberlieferungen sichtbar werden sollen.
+
+Qualitaet 3 neu: Vorgegebene Grundannahme
+Das Werk ist nicht neutral gerahmt, sondern fuehrt in eine nicht materialistische Weise des Lesens ein und erklaert dichte Formen als Trager von Lehre.
+
+Knappe Gesamtbewertung
+Welche Position entsteht?
+Es entsteht eine textnahe, vergleichende Klarfassung des Selbstanspruchs des Buches. Der Text erscheint nicht bloss als Sammlung, sondern als Versuch, alte Lehrformen unter einer bestimmten, nicht materialistischen Lesehaltung zusammenzuziehen.
+
+Welche Veraenderung ist eingetreten?
+Die Sprache ist von feierlicher und ausgreifender Selbstdarstellung zu kurzen Saetzen uebergegangen. Dabei ist eine starke Konvergenz sichtbar geworden: universalistische Vergleichsbewegung einerseits, anti-materialistische Rahmung andererseits.

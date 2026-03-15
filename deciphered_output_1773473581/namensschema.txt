@@ -1,0 +1,18 @@
+Namensschema fuer den Lauf 1773473581
+
+1. Schritt-3-Ergebnisse innerhalb beider Schleifen
+   decipher.1.loopX.passY.1773473581.txt
+   X = aeusserer Durchlauf von 1 bis 5
+   Y = innerer Durchlauf von 1 bis 3
+
+2. Ergebnis nach sieben inneren Durchlaeufen innerhalb eines aeusseren Durchlaufs
+   deciphered.2.loopX.1773473581.txt
+
+3. Ergebnis nach der finalen Abstimmung innerhalb eines aeusseren Durchlaufs
+   deciphered.2.1.loopX.1773473581.txt
+
+4. Ergebnis nach allen sieben aeusseren Durchlaeufen
+   deciphered.3.1773473581.txt
+
+5. Knappe Schlussfassung
+   deciphered.sumnup.txt
