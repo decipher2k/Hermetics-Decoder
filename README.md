@@ -9,8 +9,9 @@ To decipher the complete text in a whole and not chapterwise, a 2MB context wind
 <br>        
 Toned-down version.<br>
 If you are bored and don't know hat to do, you could for instance try to change the prompt so it uses 7 iterations in an inner loop and 3 iterations in an outer loop, applying the new insights about archetypes from the inner loop to the original text in each outer iteration.<br>
-Instead you could also apply the new insights from archetypes after the last loop to the original text instead of applying it after each outer iteration, examining how it modifies it.
-Modify the prompt and compare results. Instruct the AI to track iterations and modifications of archetypes per iteration for deeper insights.<br><br>
+Instead you could also apply the new insights from archetypes after the last loop to the original text instead of applying it after each outer iteration, examining how it modifies it.<br>
+Modify the prompt and compare results. Instruct the AI to track iterations and modifications of archetypes per iteration for deeper insights and so on.<br>
+<br>
 
 Mixed language (english/german) - I'm language-agnostic and can't always remember which language I've written in.<br>
 Google Translate helps.<br>
