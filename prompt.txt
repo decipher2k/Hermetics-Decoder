@@ -153,6 +153,4 @@ Per chapter, 27 log files are produced (7×3 A-logs + 2×3 B-logs) + 1 result fi
 1. Create the directories `log/` and `result/`
 2. Execute Phase 0
 3. Execute Phase 1
-4. Execute Phase A
-5. Execute Phase B
-6. After completing all chapters, provide the results in the `result/` directory
+4. After completing all chapters, provide the results in the `result/` directory
