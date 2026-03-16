@@ -5,9 +5,8 @@ Example for the results in the repository was "Die geheimen Lehren aller Zeitalt
 DANGER: Don't use the content of this repository if you don't know what you are doing.<br>
         The results are mostly unsorted! They have been created with several different versions of the prompt.<br><br>
 
-Important files: <br>
 prompt.txt contains the AI prompt<br>
-\log contains the full example<br>
+
 <br>
 To decipher the complete text in a whole and not chapterwise, a 2MB context window of the AI (about 500.000 tokens) is required.<br>
 Agent mode is advised. Large books will be really expensive when using an API, they will be about 1500$-2500$. When using Visual Studio Code and Github Copilot Plus with a last-gen model (Opus 4.6 or GPT 5.4), this will be reduces to a few cents, but it won't be able to handle large books in a whole. Instead it will decipher the text chapterwise.<br>
