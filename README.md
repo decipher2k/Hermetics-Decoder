@@ -19,7 +19,6 @@ Instead you could also apply the new insights from archetypes after the last loo
 Modify the prompt and compare results. Instruct the AI to track iterations and modifications of archetypes per iteration for deeper insights and so on.<br>
 <br>
 
-Mixed language (english/german) - I'm language-agnostic and can't always remember which language I've written in.<br>
 Google Translate helps.<br>
 <br>
 This is EXPERIMENTAL!<br>
