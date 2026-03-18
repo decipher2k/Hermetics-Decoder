@@ -30,7 +30,7 @@ equals<br>
 2 - 3 - 1<br>
 <br>
 Jesus sacrificed himself, thus having been "The Word" from the beginning.<br>
-This principle can be found in the seal of the U.S.A.:
+The archetype of this principle can be found in the seal of the U.S.A.:
 Novus Ordo Seclorum<br>
 <br>
 ---<br>
