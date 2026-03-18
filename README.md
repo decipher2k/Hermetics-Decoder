@@ -17,6 +17,31 @@ If you are bored and don't know hat to do, you could for instance try to change 
 Instead you could also apply the new insights from archetypes after the last loop to the original text instead of applying it after each outer iteration, examining how it modifies it.<br>
 Modify the prompt and compare results. Instruct the AI to track iterations and modifications of archetypes per iteration for deeper insights and so on.<br>
 <br>
+Some insights:<br>
+The lower-dimensional sequence <br>
+<br>
+1 - God speaks the Word<br>
+2 - Jesus gets born<br>
+3 - Jesus dies<br>
+<br>
+equals<br>
+<br>
+2 - 3 - 1<br>
+<br>
+Jesus sacrificed himself, thus having been "The Word" from the beginning.<br>
+<br>
+---<br>
+<br>
+The self-sacrification of Jesus has led to the transformation of seperation to duality in the principle of eternal life, thus negating suffering.<br>
+<br>
+---<br>
+<br>
+Jesus has been chosen by God as his son and reached ascension through self sacrification.<br>
+<br>
+---<br>
+<br>
+Deciphering hermetic texts is basically done by translating archetypes in their context according to their context into readable language, followed by  updating their original meaning that results from this in a loop until convergence has been reached.<br>
+<br>
 
 Google Translate helps.<br>
 <br>
