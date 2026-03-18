@@ -1,0 +1,34 @@
+---
+phase: 0
+iteration: v000
+nesting_level: inner
+masked: false
+timestamp: 2026-03-18 16:41:48
+lineage: source_corpus -> prima_materia -> identification
+significance: { delta: 0.00, novelty: 0.00, regression: 0.00, composite: 0.00 }
+---
+{
+  "designation": "Generative noetic source-complex",
+  "summary": "The corpus repeatedly returns to a concealed origin that gives birth, transmits potency, bubbles as a spring, grounds ascent, and reappears as the condition of true inscription and lawful access.",
+  "original_terms": [
+    "mind",
+    "power",
+    "spring",
+    "spirit",
+    "self-conceived"
+  ],
+  "masked_placeholders": [
+    "SYMBOL_07",
+    "SYMBOL_05",
+    "SYMBOL_06",
+    "SYMBOL_08",
+    "SYMBOL_27"
+  ],
+  "indicator_match": {
+    "ubiquity_with_concealment": "Present. The source is everywhere operative but variably named.",
+    "paradoxical_naming": "Present. The same substrate is described as faculty, force, flow, birth-source, and self-generated origin.",
+    "formlessness_and_potential": "Present. Vision language moves through ineffable depth, pre-speech states, and latent self-reflection.",
+    "cyclical_origin_and_return": "Present. The discourse returns from ascent to source, then to inscription and oath as preservation of the source.",
+    "maximal_symbolic_density": "Present. The densest passages cluster around the prayer, vision, and final oath."
+  }
+}

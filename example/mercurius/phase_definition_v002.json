@@ -1,0 +1,24 @@
+---
+phase: mercurius
+iteration: v002
+nesting_level: mid
+masked: false
+timestamp: 2026-03-18 16:41:48
+lineage: prima_materia -> masking -> v001 -> v002 -> demasking -> mercurius
+significance: { delta: 0.03, novelty: 0.12, regression: 0.00, composite: 0.72 }
+---
+{
+  "reevaluation_basis": "Accepted masked lapis plus retained phase_definition_v001",
+  "process_fit_question": "Has understanding of the material changed enough that the process no longer fits it?",
+  "answer": "No",
+  "changes": [],
+  "justification": [
+    "The accepted lapis confirms the original three-register split: ascent dialogue, liturgical disclosure, and preservation protocol remain the correct organizing vessel.",
+    "No new evidence requires a phase reorder, split, or merge.",
+    "The current phase definition is retained for post-mask refinement and integration."
+  ],
+  "stability_state": {
+    "consecutive_re_evaluations_with_change": 0,
+    "frozen": false
+  }
+}

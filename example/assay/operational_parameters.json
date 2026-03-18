@@ -1,0 +1,29 @@
+---
+phase: 0
+iteration: v000
+nesting_level: inner
+masked: false
+timestamp: 2026-03-18 16:41:48
+lineage: source_corpus -> assay -> operational_parameters
+significance: { delta: 0.00, novelty: 0.00, regression: 0.00, composite: 0.00 }
+---
+{
+  "derived_from": {
+    "symbolic_density": "sigma_high",
+    "structural_depth": "delta_deep",
+    "cross_linkage": "chi_high",
+    "corpus_scale": "lambda_small"
+  },
+  "inner_loop_max_iterations": 8,
+  "mid_level_max_cycles": 4,
+  "outer_loop_max_cycles": 3,
+  "stagnation_threshold": 0.08,
+  "novelty_threshold": 0.05,
+  "regression_threshold": 0.10,
+  "phase5_contradiction_minimum": 3,
+  "derivation_notes": [
+    "lambda_small scaled upward because sigma_high implies dense local changes remain meaningful.",
+    "delta_deep permits repeated mid-level refinement after demasking.",
+    "chi_high requires up to three outer integrations because section-to-section effects are strong."
+  ]
+}

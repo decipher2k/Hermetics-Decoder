@@ -1,0 +1,16 @@
+---
+phase: 7
+iteration: v002
+nesting_level: inner
+masked: true
+timestamp: 2026-03-18 16:41:48
+lineage: prima_materia -> masking -> significance -> ranking
+significance: { delta: 0.75, novelty: 0.38, regression: 0.00, composite: 0.80 }
+---
+{
+  "ranking": [
+    { "iteration": "v001", "composite": 1.0, "usable": false, "reason": "rejected due to projected derivations" },
+    { "iteration": "v002", "composite": 0.80, "usable": true, "reason": "accepted and projection-free" }
+  ],
+  "best_available": "v002"
+}

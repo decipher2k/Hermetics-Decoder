@@ -1,0 +1,24 @@
+---
+phase: masking
+iteration: v002
+nesting_level: inner
+masked: true
+timestamp: 2026-03-18 16:41:48
+lineage: source_corpus -> assay -> prima_materia -> masking -> v001 -> v002
+significance: { delta: 0.75, novelty: 0.38, regression: 0.00, composite: 0.80 }
+---
+2026-03-18 16:41:48 | corpus detected in sacred texts.txt
+2026-03-18 16:41:48 | assay fixed: sigma_high, delta_deep, chi_high, lambda_small
+2026-03-18 16:41:48 | prima materia identified as generative noetic source-complex
+2026-03-18 16:41:48 | symbol map written and sealed
+2026-03-18 16:41:48 | mercurius phase_definition_v001 written
+2026-03-18 16:41:48 | v001 rejected for projected derivations
+2026-03-18 16:41:48 | v002 accepted; masked lapis written
+2026-03-18 16:41:48 | symbol map unsealed after inner convergence
+2026-03-18 16:41:48 | demasking comparison and synthesis written
+2026-03-18 16:41:48 | mercurius reevaluated; no phase changes required
+2026-03-18 16:41:48 | mid-level convergence reached at delta 0.03
+2026-03-18 16:41:48 | outer-level convergence reached at delta 0.01
+2026-03-18 16:41:48 | lapis_final written
+2026-03-18 16:41:48 | phase-1 task anchors normalized to full masked corpus for v001 and v002
+2026-03-18 16:41:48 | rejected/v001 archive upgraded to full draft and critique copies for self-play persistence

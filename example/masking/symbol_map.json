@@ -1,0 +1,41 @@
+---
+phase: masking
+iteration: v000
+nesting_level: inner
+masked: true
+timestamp: 2026-03-18 16:41:48
+lineage: prima_materia -> masking
+significance: { delta: 0.00, novelty: 0.00, regression: 0.00, composite: 0.00 }
+---
+{
+  "SYMBOL_01": "father",
+  "SYMBOL_02": "child",
+  "SYMBOL_03": "eighth",
+  "SYMBOL_04": "ninth",
+  "SYMBOL_05": "power",
+  "SYMBOL_06": "spring",
+  "SYMBOL_07": "mind",
+  "SYMBOL_08": "spirit",
+  "SYMBOL_09": "siblings",
+  "SYMBOL_10": "generations",
+  "SYMBOL_11": "souls",
+  "SYMBOL_12": "discourse",
+  "SYMBOL_13": "book",
+  "SYMBOL_14": "vision",
+  "SYMBOL_15": "light",
+  "SYMBOL_16": "angels",
+  "SYMBOL_17": "universe",
+  "SYMBOL_18": "god",
+  "SYMBOL_19": "silence",
+  "SYMBOL_20": "song",
+  "SYMBOL_21": "Hermes",
+  "SYMBOL_22": "Trismegistos",
+  "SYMBOL_23": "temple",
+  "SYMBOL_24": "stone-tablet complex",
+  "SYMBOL_25": "oath",
+  "SYMBOL_26": "eternal realm",
+  "SYMBOL_27": "self-conceived",
+  "SYMBOL_28": "conceived one",
+  "SYMBOL_29": "rulers of substance",
+  "SYMBOL_30": "creative spirit"
+}

@@ -1,0 +1,23 @@
+---
+phase: mercurius
+iteration: v001
+nesting_level: inner
+masked: true
+timestamp: 2026-03-18 16:41:48
+lineage: prima_materia -> masking -> mercurius -> v001
+significance: { delta: 0.00, novelty: 0.00, regression: 0.00, composite: 0.00 }
+---
+{
+  "base_skeleton": "default_8_phase",
+  "deviations": [
+    {
+      "change": "Phase 2 internally split into three analytical registers: ascent dialogue, liturgical invocation, inscription-preservation protocol.",
+      "justification": "The masked corpus changes mode three times while retaining the same symbol network. Treating these as sub-registers increases structural precision without removing any mandatory phase."
+    }
+  ],
+  "non_negotiable_phases_retained": [3, 4, 7],
+  "stability_state": {
+    "consecutive_re_evaluations_with_change": 0,
+    "frozen": false
+  }
+}

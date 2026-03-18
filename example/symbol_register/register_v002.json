@@ -1,0 +1,83 @@
+---
+phase: 2
+iteration: v002
+nesting_level: inner
+masked: true
+timestamp: 2026-03-18 16:41:48
+lineage: prima_materia -> masking -> v001 -> rejected -> v002 -> register
+significance: { delta: 0.75, novelty: 0.38, regression: 0.00, composite: 0.80 }
+---
+{
+  "SYMBOL_03": {
+    "structural_profile": "Sequentially after remembered stages; requested in prayer; inhabited by collectives; leads toward SYMBOL_04.",
+    "derived_meaning": "First inhabited upper threshold of the ascent.",
+    "confidence": "HIGH",
+    "convergence_status": "CONVERGED"
+  },
+  "SYMBOL_04": {
+    "structural_profile": "Receives directed relation from SYMBOL_03 and marks the superior target of the sequence.",
+    "derived_meaning": "Superior counterpart disclosed through the first upper threshold.",
+    "confidence": "HIGH",
+    "convergence_status": "CONVERGED"
+  },
+  "SYMBOL_05": {
+    "structural_profile": "Received, gestational, causative, and above lesser instances of itself.",
+    "derived_meaning": "Reproductive and transmissive potency.",
+    "confidence": "HIGH",
+    "convergence_status": "CONVERGED"
+  },
+  "SYMBOL_06": {
+    "structural_profile": "Flowing origin tied to utterance and birth.",
+    "derived_meaning": "Origin-flow.",
+    "confidence": "MEDIUM",
+    "convergence_status": "CONVERGED"
+  },
+  "SYMBOL_07": {
+    "structural_profile": "Self-perceiving, understanding, ordering, and supervising role.",
+    "derived_meaning": "Reflexive ordering-perceiver.",
+    "confidence": "HIGH",
+    "convergence_status": "CONVERGED"
+  },
+  "SYMBOL_12": {
+    "structural_profile": "Uttered, prayed, preserved, and materially fixed.",
+    "derived_meaning": "Authorized transmission-performance.",
+    "confidence": "MEDIUM",
+    "convergence_status": "CONVERGED"
+  },
+  "SYMBOL_13": {
+    "structural_profile": "Memory medium with guarded readability and preservation function.",
+    "derived_meaning": "Durable preservation medium.",
+    "confidence": "HIGH",
+    "convergence_status": "CONVERGED"
+  },
+  "SYMBOL_14": {
+    "structural_profile": "Gifted disclosure, experienced vision, then restricted reportability.",
+    "derived_meaning": "Bounded disclosure.",
+    "confidence": "HIGH",
+    "convergence_status": "CONVERGED"
+  },
+  "SYMBOL_19": {
+    "structural_profile": "State in which speaking is constrained while higher performance continues.",
+    "derived_meaning": "Silent constraint-medium.",
+    "confidence": "MEDIUM",
+    "convergence_status": "SETTLING"
+  },
+  "SYMBOL_20": {
+    "structural_profile": "Collective and interior performance directed upward and inward.",
+    "derived_meaning": "Resonant performance.",
+    "confidence": "MEDIUM",
+    "convergence_status": "CONVERGED"
+  },
+  "SYMBOL_24": {
+    "structural_profile": "Stone-bearing stabilizer that fixes transmission into guarded persistence.",
+    "derived_meaning": "Stabilizing inscription substrate.",
+    "confidence": "MEDIUM",
+    "convergence_status": "CONVERGED"
+  },
+  "SYMBOL_25": {
+    "structural_profile": "Boundary condition on reading, use, and moral fitness.",
+    "derived_meaning": "Ethical-readability seal.",
+    "confidence": "HIGH",
+    "convergence_status": "CONVERGED"
+  }
+}

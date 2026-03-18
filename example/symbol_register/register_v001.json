@@ -1,0 +1,83 @@
+---
+phase: 2
+iteration: v001
+nesting_level: inner
+masked: true
+timestamp: 2026-03-18 16:41:48
+lineage: prima_materia -> masking -> v001 -> register
+significance: { delta: 1.00, novelty: 1.00, regression: 0.00, composite: 1.00 }
+---
+{
+  "SYMBOL_03": {
+    "structural_profile": "Penultimate ascent threshold. Reached through preparation, prayer, and lawful progress; contains souls and angels; reveals but is not final.",
+    "derived_meaning": "Initiatory threshold of collective participation.",
+    "confidence": "HIGH",
+    "convergence_status": "UNSTABLE"
+  },
+  "SYMBOL_04": {
+    "structural_profile": "Terminal tier beyond SYMBOL_03; receives song from SYMBOL_03 and is linked to superior powers.",
+    "derived_meaning": "Final integrative level of ascent.",
+    "confidence": "HIGH",
+    "convergence_status": "UNSTABLE"
+  },
+  "SYMBOL_05": {
+    "structural_profile": "Can be received, transmitted, become pregnant, and exceed lower forms; linked to light and creation.",
+    "derived_meaning": "Generative potency or causal energy.",
+    "confidence": "HIGH",
+    "convergence_status": "UNSTABLE"
+  },
+  "SYMBOL_06": {
+    "structural_profile": "A flowing source from which utterance and birth issue; appears at origin moments.",
+    "derived_meaning": "Originating source-flow.",
+    "confidence": "MEDIUM",
+    "convergence_status": "SETTLING"
+  },
+  "SYMBOL_07": {
+    "structural_profile": "Both perceiver and object of perception; can speak, see, understand, and supervise inscription.",
+    "derived_meaning": "Reflexive faculty of perception and ordering.",
+    "confidence": "HIGH",
+    "convergence_status": "UNSTABLE"
+  },
+  "SYMBOL_12": {
+    "structural_profile": "Uttered from the source-flow, transmitted by master to novice, then carved into durable medium.",
+    "derived_meaning": "Operative teaching-performance.",
+    "confidence": "MEDIUM",
+    "convergence_status": "SETTLING"
+  },
+  "SYMBOL_13": {
+    "structural_profile": "Memory medium, preservation vessel, and access-controlled object.",
+    "derived_meaning": "Durable container of authorized transformation.",
+    "confidence": "HIGH",
+    "convergence_status": "SETTLING"
+  },
+  "SYMBOL_14": {
+    "structural_profile": "Goal requested in prayer, experienced in vision, then restricted in speech.",
+    "derived_meaning": "Transformative disclosure.",
+    "confidence": "HIGH",
+    "convergence_status": "SETTLING"
+  },
+  "SYMBOL_19": {
+    "structural_profile": "Apparently empty state that paradoxically carries communication and song.",
+    "derived_meaning": "Nonverbal medium of valid transmission.",
+    "confidence": "MEDIUM",
+    "convergence_status": "UNSTABLE"
+  },
+  "SYMBOL_20": {
+    "structural_profile": "Collective act performed toward higher tiers and also inwardly.",
+    "derived_meaning": "Participatory resonance-act.",
+    "confidence": "MEDIUM",
+    "convergence_status": "SETTLING"
+  },
+  "SYMBOL_24": {
+    "structural_profile": "Durable inscription substrate linked to authorized preservation and guarded placement.",
+    "derived_meaning": "Material stabilizer of the teaching.",
+    "confidence": "MEDIUM",
+    "convergence_status": "SETTLING"
+  },
+  "SYMBOL_25": {
+    "structural_profile": "Boundary condition that restricts malicious reading and regulates access.",
+    "derived_meaning": "Ethical access seal.",
+    "confidence": "HIGH",
+    "convergence_status": "SETTLING"
+  }
+}

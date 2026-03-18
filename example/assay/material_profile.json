@@ -1,0 +1,44 @@
+---
+phase: 0
+iteration: v000
+nesting_level: inner
+masked: false
+timestamp: 2026-03-18 16:41:48
+lineage: source_corpus -> assay
+significance: { delta: 0.00, novelty: 0.00, regression: 0.00, composite: 0.00 }
+---
+{
+  "source_file": "sacred texts.txt",
+  "operative_corpus_window": "Main discourse beginning at 'The Discourse on the Eighth and Ninth' and ending with the closing oath; web-navigation paratext excluded from decryption.",
+  "word_count": 2220,
+  "unit_definition": "Sectional paragraph or liturgical block",
+  "symbolic_density": {
+    "label": "sigma_high",
+    "estimate": 6.4,
+    "basis": "Each major unit contains multiple recurring figures, cosmological levels, visionary media, inscription materials, and ritual directives. The densest units exceed ten symbolic motifs."
+  },
+  "structural_depth": {
+    "label": "delta_deep",
+    "meta_layers": 4,
+    "basis": [
+      "Dialogue about how ascent discourse should be received and remembered.",
+      "Prayer that narrates and performs the ascent simultaneously.",
+      "Vision section that insists on silence while reporting the limit of reportability.",
+      "Instruction section that orders the discourse's own preservation, access control, and ethical reading."
+    ]
+  },
+  "cross_linkage": {
+    "label": "chi_high",
+    "basis": "Dialogue, prayer, vision, and preservation instructions all recur to the same ascent sequence, same teacher-student dyad, same silence-song paradox, and same textualization motif."
+  },
+  "corpus_scale": {
+    "label": "lambda_small",
+    "basis": "2220 words places the operative corpus in the 500-5000 range."
+  },
+  "assay_findings": [
+    "The corpus is not primarily narrative; it is ritual-instructional with embedded self-commentary.",
+    "Symbolic force is concentrated in a limited but tightly interlocked register.",
+    "The text repeatedly returns to an origin-source that is generative, concealed, and self-duplicating.",
+    "Preservation instructions are part of the symbolic mechanism, not incidental appendices."
+  ]
+}

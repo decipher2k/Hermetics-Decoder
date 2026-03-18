@@ -1,0 +1,18 @@
+---
+phase: 7
+iteration: v001
+nesting_level: inner
+masked: true
+timestamp: 2026-03-18 16:41:48
+lineage: prima_materia -> masking -> v001 -> significance
+significance: { delta: 1.00, novelty: 1.00, regression: 0.00, composite: 1.00 }
+---
+{
+  "iteration": "v001",
+  "delta": 1.0,
+  "novelty": 1.0,
+  "regression": 0.0,
+  "composite": 1.0,
+  "status": "nominal_continue",
+  "notes": "Bootstrap scores for first iteration; rejection driven by projected derivations, not significance halting."
+}

@@ -1,0 +1,28 @@
+---
+phase: 2
+iteration: v002
+nesting_level: inner
+masked: true
+timestamp: 2026-03-18 16:41:48
+lineage: prima_materia -> masking -> v001 -> v002 -> convergence_map
+significance: { delta: 0.75, novelty: 0.38, regression: 0.00, composite: 0.80 }
+---
+{
+  "converged": [
+    "SYMBOL_03",
+    "SYMBOL_04",
+    "SYMBOL_05",
+    "SYMBOL_06",
+    "SYMBOL_07",
+    "SYMBOL_12",
+    "SYMBOL_13",
+    "SYMBOL_14",
+    "SYMBOL_20",
+    "SYMBOL_24",
+    "SYMBOL_25"
+  ],
+  "settling": [
+    "SYMBOL_19"
+  ],
+  "unstable": []
+}
