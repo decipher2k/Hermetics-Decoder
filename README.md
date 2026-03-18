@@ -18,7 +18,7 @@ Instead you could also apply the new insights from archetypes after the last loo
 Modify the prompt and compare results. Instruct the AI to track iterations and modifications of archetypes per iteration for deeper insights and so on.<br><br>
 Another way would be ignoring the fixed loops and let them iterate until the system converges.<br>
 Try prompt_343_iterations_known_archetypes.txt and prompt_343_iterations_unknown_archetypes.txt for a 7³ steps system<br> 
-(Magnus Opus principle)
+You could also try prompt_magnus_opus_decipher.txt for decrypting hermetic texts the Magnus Opus style.<br>
 <br>
 Some insights:<br>
 The lower-dimensional sequence <br>
