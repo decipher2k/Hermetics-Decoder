@@ -21,31 +21,6 @@ Try prompt_343_iterations_known_archetypes.txt and prompt_343_iterations_unknown
 You could also try prompt_magnus_opus_decipher.txt for decrypting hermetic texts the Magnus Opus style.<br>
 The version that does only work with known symbol meanings is prompt_magnus_opus_decipher_near_to_perfect.txt<br>
 For texts with lost symbol meanings, use prompt_lost_symbol_meanings.txt<br>
-
-<br>
-Some insights:<br>
-The lower-dimensional sequence <br>
-<br>
-1 - God speaks the Word<br>
-2 - Jesus gets born<br>
-3 - Jesus dies<br>
-<br>
-equals<br>
-<br>
-2 - 3 - 1<br>
-<br>
-Jesus sacrificed himself, thus having been "The Word" from the beginning.<br>
-The archetype of this principle can be found in the seal of the U.S.A.:
-Novus Ordo Seclorum<br>
-<br>
----<br>
-<br>
-The self-sacrification of Jesus has led to the transformation of seperation to duality in the principle of eternal life, thus negating suffering.<br>
-<br>
----<br>
-<br>
-Jesus has been chosen by God as his son and reached ascension through self sacrification.<br>
-<br>
 ---<br>
 <br>
 Deciphering hermetic texts is basically done by translating archetypes in their context according to their context into readable language, followed by  updating their original meaning that results from this in a loop until convergence has been reached.<br>
