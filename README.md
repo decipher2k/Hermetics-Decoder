@@ -20,7 +20,7 @@ Another way would be ignoring the fixed loops and let them iterate until the sys
 Try prompt_343_iterations_known_archetypes.txt and prompt_343_iterations_unknown_archetypes.txt for a 7³ steps system<br> 
 You could also try prompt_magnus_opus_decipher.txt for decrypting hermetic texts the Magnus Opus style.<br>
 The version that does only work with known symbol meanings is prompt_magnus_opus_decipher_near_to_perfect.txt<br>
-For texts with lost symbol meanings, use prompt_lost_symbol_meanings.txt<br>
+For texts with lost meanings of the symbols, use prompt_lost_symbol_meanings.txt<br>
 ---<br>
 <br>
 Deciphering hermetic texts is basically done by translating archetypes in their context according to their context into readable language, followed by  updating their original meaning that results from this in a loop until convergence has been reached.<br>
